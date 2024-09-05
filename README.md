@@ -1,4 +1,4 @@
-# lab_1
+# lab
 
 A new Flutter project.
 
